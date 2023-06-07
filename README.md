@@ -1,4 +1,4 @@
-# Projet de Mémoire
+# L'étude quantitative des correspondances des ministres français
 
 
 ### Install dependencies
@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 ```
 
-## Manuel
+## Manuel d'utilisation
 Pour parser un ensemble de transcriptions de lettres et les structurer dans une table afin de faciliter leur analyse quantitative.
 Les étapes ci-dessous permettent la transformation des lettres en une base de données.
 
