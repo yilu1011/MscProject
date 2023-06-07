@@ -1,4 +1,4 @@
-# pour l'analyse quantitative des données des correspondances des ministres français
+# pour l'analyse quantitative des données extraites des correspondances des ministres français
 
 
 ### Install dependencies
